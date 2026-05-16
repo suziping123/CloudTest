@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: "SpringBoot-Order"
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 169.254.205.49:8848
+        service: order-service
+  config:
+    import: nacos:service-order.properties
+
+server:
+  port: 8000

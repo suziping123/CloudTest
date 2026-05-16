@@ -1,0 +1,29 @@
+package org.cloud.order.controller;
+
+import org.cloud.model.bean.order.Order;
+import org.cloud.order.service.OrderService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
+
+
+/**
+ * @author SuZiPing
+ * @version 1.0
+ */
+
+@RestController
+public class OrderController {
+
+    @Autowired
+    private OrderService orderService;
+
+    @GetMapping("/order/{orderId}&{productId}")
+    public Order  getOrderController(@PathVariable("orderId") Long orderId,
+                                     @PathVariable("productId") Long productId) {
+
+        Order order = orderService.getOrderById(orderId, productId);
+        return order;
+    }
+}

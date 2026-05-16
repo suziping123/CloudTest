@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: "SpringBoot-Product"
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 169.254.205.49:8848
+        service: ${spring.application.name}
+
+server:
+  port: 9000
