@@ -6,8 +6,13 @@ spring:
       discovery:
         server-addr: 169.254.205.49:8848
         service: order-service
+      config:
+        namespace: dev
   config:
-    import: nacos:service-order.properties
+    import:
+      - nacos:service-order.properties
+      - nacos:data-order.properties
+    name: service-order
 
 server:
   port: 8000
