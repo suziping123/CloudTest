@@ -1,0 +1,4 @@
+2026-05-17 11:04:49,114 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=2}
+
+2026-05-17 11:05:29,675 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=4}
+

@@ -1,0 +1,184 @@
+2026-05-15 09:23:18,676 INFO use local db service for init
+
+2026-05-15 09:23:19,285 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2026-05-15 09:23:19,290 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2026-05-15 09:23:19,355 WARN Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,423 WARN Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,456 WARN Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,472 WARN Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,494 WARN Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,512 WARN Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,530 WARN Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,545 WARN Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,561 WARN Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,582 WARN Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,600 WARN Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,617 WARN Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,639 WARN Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,655 WARN Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,673 WARN Table/View 'PERMISSIONS' already exists in Schema 'NACOS'.
+
+2026-05-15 09:23:19,674 WARN Lexical error at line 4, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 09:23:19,675 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 09:23:19,675 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 09:23:19,676 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 09:23:19,676 INFO use StandaloneDatabaseOperateImpl
+
+2026-05-15 12:59:24,172 INFO use local db service for init
+
+2026-05-15 12:59:24,747 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2026-05-15 12:59:24,747 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2026-05-15 12:59:24,810 WARN Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:24,863 WARN Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:24,887 WARN Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:24,897 WARN Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:24,917 WARN Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:24,933 WARN Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:24,947 WARN Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:24,961 WARN Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:24,975 WARN Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:24,990 WARN Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:25,008 WARN Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:25,027 WARN Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:25,042 WARN Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:25,057 WARN Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:25,070 WARN Table/View 'PERMISSIONS' already exists in Schema 'NACOS'.
+
+2026-05-15 12:59:25,070 WARN Lexical error at line 4, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 12:59:25,070 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 12:59:25,070 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 12:59:25,070 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 12:59:25,070 INFO use StandaloneDatabaseOperateImpl
+
+2026-05-15 14:54:52,129 INFO use local db service for init
+
+2026-05-15 14:54:52,674 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2026-05-15 14:54:52,680 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2026-05-15 14:54:52,736 WARN Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,801 WARN Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,828 WARN Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,844 WARN Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,860 WARN Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,876 WARN Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,891 WARN Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,909 WARN Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,923 WARN Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,943 WARN Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,958 WARN Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,976 WARN Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:52,995 WARN Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:53,009 WARN Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:53,023 WARN Table/View 'PERMISSIONS' already exists in Schema 'NACOS'.
+
+2026-05-15 14:54:53,024 WARN Lexical error at line 4, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 14:54:53,024 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 14:54:53,025 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 14:54:53,025 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 14:54:53,025 INFO use StandaloneDatabaseOperateImpl
+
+2026-05-15 17:04:27,918 INFO use local db service for init
+
+2026-05-15 17:04:28,371 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2026-05-15 17:04:28,375 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2026-05-15 17:04:28,425 WARN Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,481 WARN Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,505 WARN Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,519 WARN Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,533 WARN Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,548 WARN Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,562 WARN Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,576 WARN Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,590 WARN Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,606 WARN Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,618 WARN Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,633 WARN Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,649 WARN Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,663 WARN Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,676 WARN Table/View 'PERMISSIONS' already exists in Schema 'NACOS'.
+
+2026-05-15 17:04:28,677 WARN Lexical error at line 4, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 17:04:28,678 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 17:04:28,678 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 17:04:28,678 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-15 17:04:28,679 INFO use StandaloneDatabaseOperateImpl
+

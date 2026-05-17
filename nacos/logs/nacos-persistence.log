@@ -1,0 +1,46 @@
+2026-05-17 10:58:50,175 INFO use local db service for init
+
+2026-05-17 10:58:50,594 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2026-05-17 10:58:50,598 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2026-05-17 10:58:50,646 WARN Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,694 WARN Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,718 WARN Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,732 WARN Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,744 WARN Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,759 WARN Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,775 WARN Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,786 WARN Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,803 WARN Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,819 WARN Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,832 WARN Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,844 WARN Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,860 WARN Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,872 WARN Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,884 WARN Table/View 'PERMISSIONS' already exists in Schema 'NACOS'.
+
+2026-05-17 10:58:50,885 WARN Lexical error at line 4, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-17 10:58:50,885 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-17 10:58:50,885 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-17 10:58:50,885 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2026-05-17 10:58:50,885 INFO use StandaloneDatabaseOperateImpl
+
