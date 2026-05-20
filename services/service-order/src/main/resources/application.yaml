@@ -1,15 +1,16 @@
 spring:
   application:
-    name: "SpringBoot-Order"
+    name: "order-service"
   cloud:
     nacos:
       discovery:
-        server-addr: 169.254.205.49:8848
+        server-addr: localhost:8848
         service: order-service
       config:
         namespace: dev
   config:
     import:
+      - classpath:application-feign.yaml
       - nacos:service-order.properties
       - nacos:data-order.properties
     name: service-order

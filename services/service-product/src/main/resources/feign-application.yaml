@@ -1,0 +1,7 @@
+# application.yaml
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 1000
+        readTimeout: 2000

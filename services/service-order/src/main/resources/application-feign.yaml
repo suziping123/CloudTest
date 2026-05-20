@@ -1,0 +1,14 @@
+# application.yaml
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 1000
+        readTimeout: 2000
+      service-product:
+        logger-level: full
+        connectTimeout: 1000
+        readTimeout: 5000
+        requestInterceptors:
+          - org.cloud.order.interceptor.XTokenRequestInterceptor
+#        retryer: com.example.feign.retryer.Default
