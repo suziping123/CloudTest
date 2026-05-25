@@ -3,15 +3,12 @@ package org.cloud.order.service.iml;
 import lombok.extern.slf4j.Slf4j;
 import org.cloud.model.bean.order.Order;
 import org.cloud.model.bean.product.Product;
-import org.cloud.order.config.ProductFeignClient;
+import org.cloud.order.feign.ProductFeignClient;
 import org.cloud.order.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
-
-import java.util.List;
 
 /**
  * @author SuZiPing

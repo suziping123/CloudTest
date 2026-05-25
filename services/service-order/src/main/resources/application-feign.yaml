@@ -11,4 +11,14 @@ feign:
         readTimeout: 5000
         requestInterceptors:
           - org.cloud.order.interceptor.XTokenRequestInterceptor
+
 #        retryer: com.example.feign.retryer.Default
+  sentinel:
+    transport:
+      dashboard: localhost:8080
+    eager: true
+    enabled: true
+    feign:
+      enabled: true
+      fallback:
+        service-product: com.example.feign.fallback.ProductServiceFallback

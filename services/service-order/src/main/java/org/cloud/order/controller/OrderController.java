@@ -1,5 +1,6 @@
 package org.cloud.order.controller;
 
+import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import org.cloud.model.bean.order.Order;
 import org.cloud.order.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -29,6 +30,7 @@ public class OrderController {
     public String getTimeout() {
         return "当前 order.timeout = " + timeout;
     }
+    @SentinelResource(value = "getOrderController")
     @GetMapping("/order/{orderId}&{productId}")
     public Order  getOrderController(@PathVariable("orderId") Long orderId,
                                      @PathVariable("productId") Long productId) {

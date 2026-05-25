@@ -6,6 +6,18 @@ spring:
       discovery:
         server-addr: localhost:8848
         service: ${spring.application.name}
+      config:
+        import-check:
+          enabled: false
+    sentinel:
+      transport:
+        dashboard: localhost:8080
+      eager: true
+      enabled: true
 
+  config:
+    import:
+      - classpath:application-feign.yaml
 server:
   port: 9000
+

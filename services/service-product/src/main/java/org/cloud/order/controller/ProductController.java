@@ -26,7 +26,7 @@ public class ProductController {
     HttpServletRequest request) throws InterruptedException {
         String header = request.getHeader("X-Token");
         System.out.println("hello……"+ header);
-        Thread.sleep(5000); // 模拟慢响应，触发超时重试
+        Thread.sleep(50); // 模拟慢响应，触发超时重试
         Product product = productService.getProductById(id);
         return product;
     }

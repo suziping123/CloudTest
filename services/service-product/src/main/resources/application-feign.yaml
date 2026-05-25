@@ -5,3 +5,7 @@ feign:
       default:
         connectTimeout: 1000
         readTimeout: 2000
+  sentinel:
+    transport:
+      dashboard: localhost:8080
+    eager: true

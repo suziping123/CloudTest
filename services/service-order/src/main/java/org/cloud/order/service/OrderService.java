@@ -1,5 +1,6 @@
 package org.cloud.order.service;
 
+import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import org.cloud.model.bean.order.Order;
 import org.cloud.model.bean.product.Product;
 
@@ -8,6 +9,7 @@ import org.cloud.model.bean.product.Product;
  * @version 1.0
  */
 public interface OrderService {
+    @SentinelResource("createOrder")
     static Order createOrder(Long orderId, Product product) {
         Order order = new Order();
         order.setId(orderId);

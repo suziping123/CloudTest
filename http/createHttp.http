@@ -1,2 +1,7 @@
-GET http://localhost:8000/order/1&6
+GET http://localhost:8000/order/1&1
+Content-Type: application/json
+
+###
+
+GET http://localhost:8000/order/1&77
 Content-Type: application/json
