@@ -1,6 +1,6 @@
 package org.cloud.model.bean.order;
 
-import lombok.Data;
+import lombok.*;
 import org.cloud.model.bean.product.Product;
 
 import java.util.List;
@@ -10,10 +10,16 @@ import java.util.List;
  * @version 1.0
  */
 @Data
+@Setter
+@Getter
+@AllArgsConstructor
+@NoArgsConstructor
 public class Order {
     private Long id;
     private Long totalAmount;
     private Long userId;
     private String nickName;
     private List<Product> productList;
+    private Long ProductId;
+    private String status;
 }
